@@ -1,2 +1,2 @@
-- 👋 Hi, I’m ✨sarah✨
-- aspiring web developer and space nerd
+👋 Hi, I’m ✨sarah✨
+aspiring web developer and space nerd
