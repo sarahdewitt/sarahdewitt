@@ -1,3 +1,3 @@
 👋 Hi, I’m ✨sarah✨\
-aspiring creative front-end developer and stardew valley enthusiast.\
+aspiring creative front-end developer.\
 currently learning: next.js with framer motion!
