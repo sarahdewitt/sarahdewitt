@@ -11,4 +11,4 @@
 
 - 📫 How to reach me **sarahejdewitt@gmail.com**
 
-- 📄 Know about my experiences [https://sarahdewitt.github.io/docs/Sarah%20De%20Witt%20-%20Resume%202024.pdf](https://tinyurl.com/sarahdwresume)
+- 📄 Want to know about my experiences? [View my resume](https://tinyurl.com/sarahdwresume)
