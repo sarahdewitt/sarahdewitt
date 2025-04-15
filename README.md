@@ -1,25 +1,13 @@
 ---
 
-![Pixel Art](https://github.com/user-attachments/assets/6a846e83-9484-4723-845c-c735f7aa54c5)  
 <div align="center">
+  
+![ghibli](https://github.com/user-attachments/assets/b7f21209-d371-4e86-a0f9-7e172ebe90de)
 
-# ･ﾟ:*✧･ﾟ:✧ ʜɪ, ɪ'ᴍ ꜱᴀʀᴀʜ ᴅᴇ ᴡɪᴛᴛ! ✧･ﾟ:✧･ﾟ:*
+# ･ﾟ:*✧･ﾟ:✧ Hi, I'm Sarah! ✧･ﾟ:✧･ﾟ:*
 
-### A Creative Frontend Developer based in Kuala Lumpur 🌸✨
+<p>UI/UX designer based in MY</p>
+<p>I code sometimes...</p>
 
 </div>
-
----
-
-- 🌱 I’m currently learning **Next.js with Framer Motion & GSAP**
-
-- 💻 All of my projects are available at [sarahdewitt.github.io](https://sarahdewitt.github.io)
-
-- 💌 I regularly write articles on [sarahejdewitt.medium.com](https://sarahejdewitt.medium.com) ~*(come read!)*~
-
-- 📫 Reach me at **sarahejdewitt@gmail.com** ~*(Let’s be friends!)*~ 🐾
-
-- 💼 Curious about my journey? [View my resume](https://tinyurl.com/sarahdwresume)
-
----
 
